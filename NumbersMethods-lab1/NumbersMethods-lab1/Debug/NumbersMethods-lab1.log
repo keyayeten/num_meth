@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\sexon\Desktop\NumbersMethods-lab1\NumbersMethods-lab1\main.cpp(8,9): warning C4101: value: неиспользованная локальная переменная
+C:\Users\sexon\Desktop\NumbersMethods-lab1\NumbersMethods-lab1\main.cpp(10,12): warning C4101: h: неиспользованная локальная переменная
+C:\Users\sexon\Desktop\NumbersMethods-lab1\NumbersMethods-lab1\main.cpp(10,9): warning C4101: X: неиспользованная локальная переменная
+  NumbersMethods-lab1.vcxproj -> C:\Users\sexon\Desktop\NumbersMethods-lab1\Debug\NumbersMethods-lab1.exe
